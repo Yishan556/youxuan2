@@ -23,3 +23,9 @@
 172.64.78.140#CT-MSP
 172.67.191.232#CT-LHR
 104.18.100.54#CT-SJC
+cdnjs.com#【推荐】优选域名
+www.racknerd.com#大厂优选域名
+store.epicgames.com#大厂优选域名
+www.epicgames.com#大厂优选域名
+visa.cn#大厂优选域名
+www.fortnite.com#大厂优选域名
