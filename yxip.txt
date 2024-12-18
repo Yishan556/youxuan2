@@ -2,7 +2,6 @@ time.is#优选大厂域名
 cdnjs.com#优选大厂域名
 icook.tw:2053#优选大厂域名
 visa.com#优选大厂域名
-visa.cn:443#优选大厂域名
 shopify.com#优选大厂域名
 icook.hk#优选大厂域名
 skk.moe#优选大厂域名
