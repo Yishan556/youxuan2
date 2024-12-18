@@ -47,3 +47,7 @@
 3.68.197.87,8080,443,true,FRA,Europe,DE,Frankfurt,318,9.03
 52.42.71.111,443,443,true,PDX,North America,US,Portland,309,9.02
 67.226.221.242,80,443,true,SJC,North America,US,San Jose,559,9.01
+8.218.102.83,3456,TRUE,HKG,亚太,HK,香港,香港,75 ms,30.45
+104.18.185.53,443,TRUE,SEA,北美洲,US,美国,西雅图,202 ms,25.72
+172.67.18.18,443,TRUE,HKG,亚太,HK,香港,香港,34 ms,22.44
+8.219.79.88,443,TRUE,IAD,北美洲,US,美国,阿什本,100 ms,14.1
