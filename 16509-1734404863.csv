@@ -1,11 +1,4 @@
 ﻿IP地址,端口,回源端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
-54.219.247.184,80,443,true,SJC,North America,US,San Jose,244,9.07
-51.20.161.26,443,443,true,ARN,Europe,SE,Stockholm,372,9.06
-44.244.79.204,443,443,true,SEA,North America,US,Seattle,256,9.06
-54.187.136.218,443,443,true,SEA,North America,US,Seattle,215,9.05
-67.226.221.123,80,443,true,SJC,North America,US,San Jose,465,9.05
-51.20.207.0,443,443,true,ARN,Europe,SE,Stockholm,262,9.03
-44.245.225.216,443,443,true,SEA,North America,US,Seattle,348,9.03
 3.68.197.87,8080,443,true,FRA,Europe,DE,Frankfurt,318,9.03
 52.42.71.111,443,443,true,PDX,North America,US,Portland,309,9.02
 67.226.221.242,80,443,true,SJC,North America,US,San Jose,559,9.01
