@@ -1,5 +1,30 @@
 ﻿IP地址,端口,回源端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
-3.68.197.87,8080,443,true,FRA,Europe,DE,Frankfurt,318,9.03
-52.42.71.111,443,443,true,PDX,North America,US,Portland,309,9.02
-67.226.221.242,80,443,true,SJC,North America,US,San Jose,559,9.01
-
+34.88.63.160,443,443,true,WAW,Europe,PL,Warsaw,480,9.96
+35.228.132.81,2053,443,true,ARN,Europe,SE,Stockholm,318,9.77
+34.105.233.161,443,443,true,LHR,Europe,GB,London,316,9.42
+34.70.91.86,443,443,true,ORD,North America,US,Chicago,232,9.25
+34.69.150.180,443,443,true,ORD,North America,US,Chicago,245,9.15
+34.69.150.180,443,443,true,ORD,North America,US,Chicago,391,9.09
+34.69.150.180,443,443,true,ORD,North America,US,Chicago,387,9.03
+34.70.91.86,443,443,true,ORD,North America,US,Chicago,215,8.98
+35.202.158.120,443,443,true,ORD,North America,US,Chicago,361,8.86
+34.70.91.86,443,443,true,ORD,North America,US,Chicago,354,8.80
+35.202.158.120,443,443,true,ORD,North America,US,Chicago,306,8.75
+34.105.189.25,443,443,true,LHR,Europe,GB,London,288,8.67
+35.202.158.120,443,443,true,ORD,North America,US,Chicago,393,8.67
+35.197.239.137,443,443,true,LHR,Europe,GB,London,307,8.58
+34.105.140.105,443,443,true,LHR,Europe,GB,London,237,8.50
+34.70.91.86,443,443,true,ORD,North America,US,Chicago,262,8.46
+34.69.150.180,443,443,true,ORD,North America,US,Chicago,242,8.40
+35.196.72.166,443,443,true,ATL,North America,US,Atlanta,351,8.34
+34.147.196.2,443,443,true,LHR,Europe,GB,London,281,8.30
+35.190.152.145,443,443,true,ATL,North America,US,Atlanta,306,8.30
+34.105.130.188,443,443,true,LHR,Europe,GB,London,356,7.86
+35.204.231.100,443,443,true,AMS,Europe,NL,Amsterdam,377,7.80
+35.200.238.235,443,443,true,BOM,Asia Pacific,IN,Mumbai,511,7.49
+34.175.202.195,443,443,true,MAD,Europe,ES,Madrid,370,6.60
+35.228.36.82,443,443,true,ARN,Europe,SE,Stockholm,339,6.15
+35.189.99.124,443,443,true,LHR,Europe,GB,London,290,5.42
+34.105.130.188,443,443,true,LHR,Europe,GB,London,250,5.37
+34.105.130.188,443,443,true,LHR,Europe,GB,London,211,5.19
+34.142.5.107,443,443,true,LHR,Europe,GB,London,378,5.11
