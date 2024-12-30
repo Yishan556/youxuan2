@@ -1,41 +1,4 @@
 ﻿IP地址,端口,回源端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
-52.42.71.111,443,443,true,SEA,North America,US,Seattle,273,9.78
-44.245.176.163,8443,443,true,SEA,North America,US,Seattle,250,9.78
-52.13.28.170,8880,443,true,SEA,North America,US,Seattle,271,9.78
-54.67.51.104,8443,443,true,SJC,North America,US,San Jose,309,9.78
-54.203.58.149,443,443,true,SEA,North America,US,Seattle,326,9.70
-54.184.150.137,443,443,true,SEA,North America,US,Seattle,276,9.69
-3.71.189.51,2053,443,true,FRA,Europe,DE,Frankfurt,230,9.68
-54.187.71.149,443,443,true,SEA,North America,US,Seattle,231,9.67
-3.76.191.192,443,443,true,FRA,Europe,DE,Frankfurt,269,9.67
-44.242.144.186,443,443,true,SEA,North America,US,Seattle,245,9.67
-51.20.207.0,443,443,true,ARN,Europe,SE,Stockholm,192,9.66
-52.12.58.229,443,443,true,SEA,North America,US,Seattle,379,9.65
-44.244.81.155,443,443,true,SEA,North America,US,Seattle,268,9.65
-67.226.223.211,80,443,true,LHR,Europe,GB,London,403,9.64
-54.212.159.161,443,443,true,SEA,North America,US,Seattle,215,9.62
-13.50.173.22,8443,443,true,ARN,Europe,SE,Stockholm,229,9.62
-54.190.161.208,8443,443,true,SEA,North America,US,Seattle,240,9.61
-52.40.102.162,443,443,true,PDX,North America,US,Portland,218,9.57
-67.226.223.174,80,443,true,LHR,Europe,GB,London,160,9.57
-67.226.223.97,80,443,true,LHR,Europe,GB,London,168,9.57
-3.71.138.123,8443,443,true,FRA,Europe,DE,Frankfurt,291,9.56
-44.243.179.175,443,443,true,SEA,North America,US,Seattle,269,9.55
-52.12.43.200,443,443,true,SEA,North America,US,Seattle,251,9.55
-44.242.224.77,443,443,true,SEA,North America,US,Seattle,302,9.54
-52.12.162.159,443,443,true,PDX,North America,US,Portland,301,9.54
-44.226.199.5,443,443,true,SEA,North America,US,Seattle,252,9.53
-52.39.116.185,443,443,true,SEA,North America,US,Seattle,251,9.52
-44.224.24.91,443,443,true,SEA,North America,US,Seattle,328,9.10
-54.187.158.10,443,443,true,SEA,North America,US,Seattle,221,9.10
-13.53.81.150,2083,443,true,ARN,Europe,SE,Stockholm,240,9.10
-54.148.8.105,443,443,true,SEA,North America,US,Seattle,236,9.10
-44.244.226.104,443,443,true,SEA,North America,US,Seattle,242,9.09
-54.187.6.83,443,443,true,PDX,North America,US,Portland,262,9.08
-67.226.221.182,80,443,true,SJC,North America,US,San Jose,459,9.08
-67.226.221.98,80,443,true,SJC,North America,US,San Jose,462,9.08
-54.190.232.210,443,443,true,SEA,North America,US,Seattle,221,9.07
-51.44.173.69,443,443,true,CDG,Europe,FR,Paris,246,9.07
 54.219.247.184,80,443,true,SJC,North America,US,San Jose,244,9.07
 51.20.161.26,443,443,true,ARN,Europe,SE,Stockholm,372,9.06
 44.244.79.204,443,443,true,SEA,North America,US,Seattle,256,9.06
