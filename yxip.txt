@@ -26,6 +26,7 @@ cf.090227.xyz#优选官方线路
 cfip.xxxxxxxx.tk:443#优选官方线路
 ns6.cloudflare.com#CF线路
 developers.cloudflare.com#CF线路
+104.19.251.94#测试线路
 108.162.192.0#测试线路
 104.19.63.135#测试线路
 103.21.244.0:443#优选ip1
