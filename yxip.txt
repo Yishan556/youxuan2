@@ -23,7 +23,6 @@ www.iakeys.com#优选域名
 store.epicgames.com#优选官方线路
 cloudflare.cfgo.cc#优选官方线路
 cf.090227.xyz#优选官方线路
-cf.877771.xyz#优选官方线路
 bestcf.onecf.eu.org#优选官方线路
 cfip.xxxxxxxx.tk:443#优选官方线路
 ns6.cloudflare.com#CF线路
