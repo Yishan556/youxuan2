@@ -34,6 +34,7 @@ achk.cloudflarest.link#优选线路
 cf.0sm.com#优选线路
 bestcf.top#优选线路
 cdn.2020111.xyz#优选线路
+cloudflare.9jy.cc#优选线路
 104.19.251.94#测试
 108.162.192.0#测试
 104.19.63.135#测试
