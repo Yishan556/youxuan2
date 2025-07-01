@@ -1,3 +1,2 @@
 ﻿IP地址,端口,回源端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
 34.69.150.180,443,443,true,ORD,North America,US,Chicago,242,8.40
-35.196.72.166,443,443,true,ATL,North America,US,Atlanta,351,8.34
