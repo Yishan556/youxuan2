@@ -2,7 +2,6 @@ digitalocean.com
 ns6.cloudflare.com
 store.epicgames.com
 www.fortnite.com
-csgo.com
 visa.com
 time.is
 cdnjs.com
