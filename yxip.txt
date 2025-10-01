@@ -32,7 +32,6 @@ cdns.doon.eu.org
 185.148.14.230:30000#San Jose 14564 kB/s
 154.17.19.94:12380#Los Angeles 13806 kB/s
 173.242.118.156:8001#Los Angeles 12948 kB/s
-154.26.186.164:19071#Taipei 12744 kB/s
 23.106.155.30:12257#Los Angeles 12604 kB/s
 104.224.153.102:444#Los Angeles 12597 kB/s
 199.19.104.63:666#Los Angeles 12597 kB/s
