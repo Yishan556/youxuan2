@@ -8,6 +8,7 @@ cdnjs.com
 shopify.com
 www.speedtest.net
 cdns.doon.eu.org
+198.41.211.0
 198.41.211.15
 104.26.2.6
 104.19.63.142
