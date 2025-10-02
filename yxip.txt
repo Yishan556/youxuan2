@@ -1,5 +1,6 @@
 digitalocean.com
 ns6.cloudflare.com
+csgo.com
 store.epicgames.com
 www.fortnite.com
 visa.com
