@@ -1,5 +1,4 @@
 digitalocean.com
-ns6.cloudflare.com
 csgo.com
 store.epicgames.com
 www.fortnite.com
@@ -8,6 +7,7 @@ time.is
 cdnjs.com
 shopify.com
 www.speedtest.net
+ns6.cloudflare.com
 cdns.doon.eu.org
 198.41.211.0
 198.41.211.15
