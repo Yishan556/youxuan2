@@ -3,12 +3,16 @@ csgo.com
 store.epicgames.com
 www.fortnite.com
 visa.com
+openai.com
 time.is
 cdnjs.com
 shopify.com
 www.speedtest.net
 ns6.cloudflare.com
 cdns.doon.eu.org
+fn.130519.xyz
+nrtcfdns.zone.id
+freeyx.cloudflare88.eu.org
 198.41.211.0
 198.41.211.15
 162.159.0.0
