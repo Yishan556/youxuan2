@@ -1,7 +1,4 @@
-visa.com
-openai.com
 www.speedtest.net
-ns6.cloudflare.com
 digitalocean.com
 csgo.com
 store.epicgames.com
@@ -9,6 +6,9 @@ www.fortnite.com
 time.is
 cdnjs.com
 shopify.com
+visa.com
+openai.com
+ns6.cloudflare.com
 cdns.doon.eu.org
 fn.130519.xyz
 nrtcfdns.zone.id
