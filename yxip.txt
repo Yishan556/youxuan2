@@ -7,7 +7,6 @@ time.is
 cdnjs.com
 shopify.com
 visa.com
-openai.com
 ns6.cloudflare.com
 cdns.doon.eu.org
 fn.130519.xyz
